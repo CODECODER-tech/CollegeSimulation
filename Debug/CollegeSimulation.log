@@ -1,0 +1,6 @@
+﻿  CollegeSimulation.cpp
+D:\CGPROJECT\CollegeSimulation\CollegeSimulation.cpp(13,35): warning C4081: expected 'newline'; found '.'
+D:\CGPROJECT\CollegeSimulation\CollegeSimulation.cpp(733,64): warning C4309: 'default argument': truncation of constant value
+D:\CGPROJECT\CollegeSimulation\CollegeSimulation.cpp(1840,11): warning C4101: 'c': unreferenced local variable
+D:\CGPROJECT\CollegeSimulation\CollegeSimulation.cpp(91): warning C4715: 'loadBMP_custom': not all control paths return a value
+  CollegeSimulation.vcxproj -> D:\CGPROJECT\CollegeSimulation\Debug\CollegeSimulation.exe
